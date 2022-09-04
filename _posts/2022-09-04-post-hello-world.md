@@ -1,6 +1,5 @@
 ---
 title: "Hello world!"
-date: 2022-09-04T05:34:30-04:00
 categories:
   - blog
 tags:
