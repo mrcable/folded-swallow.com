@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "6673dfd271b9cf9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d973e9745d17f8f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-09-08-more!.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "628c045da910e826",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e1c539ddb1fa487",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecd300550e84a402",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a3deed132ec934b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84a3ab13db7d5b69",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "269783c01f259f49",
+    "type": "split",
+    "children": [
+      {
+        "id": "be72edcb7f93748c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "261b790dbe368f15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2022-09-08-more!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4013972e1870035f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2022-09-08-more!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3f20e2d4d7f2490",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e3c728447847a07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2022-09-08-more!.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4d973e9745d17f8f",
+  "lastOpenFiles": [
+    "_posts/2022-09-08-second-hello.md",
+    "_posts/2010-01-07-post-standard.md",
+    "_posts/2022-09-04-post-hello-world.md"
+  ]
+}
